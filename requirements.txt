@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain_community
+chromadb
+pydantic-settings
+asyncio
